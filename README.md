@@ -14,7 +14,7 @@
 - [] Footer- O usuário poderá visualizar as informações de contato e redes sociais. 
 - [] Página de Erro
 - [] Responsividade para iPhones 6/7/8 e iPad
-
+<hr />
 
 ### 💻 Tecnologias:
 
@@ -22,12 +22,17 @@
 As seguintes tecnologias foram usadas na construção do projeto:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
+- [TRELLO](https://trello.com/b/aTnpFGpC/projeto-br)
+
+<hr />
 
 ### 🎨 Layout:
 - CSS3
 
+<hr />
+
 ### Membros
-#### Kalliny Dal Bianco   :woman:
-#### Maviana Carvalho   :woman:
-#### Vivian Oliveira   :woman:
+#### [Kalliny Dal Bianco](https://github.com/KalinnyDalBianco)   :woman:
+#### [Maviana Carvalho](https://github.com/marianacarvalho-it)   :woman:
+#### [Vivian Oliveira](https://github.com/Vivian-Oliveira)   :woman:
 <hr />
